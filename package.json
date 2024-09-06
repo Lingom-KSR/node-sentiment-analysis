@@ -17,8 +17,8 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "mongoose": "^5.7.5",
+    "mongoose": "^5.12.4",
     "sentiment": "^5.0.1",
-    "socket.io": "^2.4.0"
+    "socket.io": "^3.0.0"
   }
 }
